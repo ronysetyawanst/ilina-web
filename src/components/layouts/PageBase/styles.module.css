@@ -1,0 +1,220 @@
+/* components/Header.module.css */
+.appBar {
+    display: flex;
+  }
+  
+  .appBar img {
+    height: 2.5rem;
+    width: auto;
+  }
+  
+  .appBar > nav {
+    align-items: center;
+    display: flex;
+    height: 100%;
+  }
+  
+  .appBar > nav > a {
+    font-family: 'Myanmar Text', sans-serif;
+    font-size: 1rem;
+    margin-left: 5rem;
+    display: block;
+  }
+  
+  .appBar > nav > a:hover::after {
+    width: 100%;
+  }
+
+  .appBarMobile {
+    align-items: center;
+    background-color: #F2EFE8;
+    box-shadow: 0px 0.125rem 1.25rem rgba(0, 0, 0, 0.1);
+    height: 4.5rem;
+    justify-content: space-between;
+    padding: 0 1rem;
+    position: fixed;
+    top: 0;
+    transition: background-color 0.1s;
+    width: 100%;
+    z-index: 5;
+    display: none;
+    font-size: 20px; /* Added font size */
+  }
+  
+  .appBarMobile > a > img {
+    height: 2.5rem;
+    width: auto;
+  }
+  
+  .appBarMobile > button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    height: 1.75rem;
+    width: 1.75rem;
+  }
+  
+  .sideBar {
+    display: none;
+  }
+  
+  .sideBar > nav {
+    background-color: #F2EFE8;
+    color: #252627;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    right: 0; /* Change from left: 0 to right: 0 */
+    width: 0;
+    left: 100;
+    z-index: 20;
+    transition: width 0.3s;
+    overflow-x: hidden;
+  }
+  
+  .sideBar > nav > a {
+    display: block;
+    padding: 1rem;
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .sideBar > div {
+    background-color: rgba(0,0,0,0.5);
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 18;
+    display: none;
+  }
+  
+  .footer {
+    background-color: #231F20;
+    color: #d9d9d9;
+    padding: 2rem 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-size: 0.9rem;
+  }
+  
+  .logoSection {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navLinks {
+    display: flex;
+    gap: 4rem;
+  }
+  
+  .navLinks a {
+    color: #d9d9d9;
+    text-decoration: none;
+  }
+  
+  .navLinks a:hover {
+    color: #927034;
+  }
+  
+  .socialLinks {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+  
+  .socialLinks span {
+    margin-right: 0.5rem;
+    font-weight: 500;
+  }
+  
+  .socialLinks img {
+    width: 1.5rem;
+    height: 1.5rem;
+    filter: invert(0.8); /* For white icons */
+  }
+  
+  .language {
+    color: #d9d9d9;
+    display: flex;
+    gap: 0.5rem;
+  }
+  
+  .language span {
+    cursor: pointer;
+    color: #d9d9d9;
+  }
+  
+  .language span:hover {
+    color: #927034;
+  }
+  
+  .language span + span {
+    color: #6e6e6e; /* Dimmed color for non-active language */
+  }
+  
+  .language span:first-child {
+    font-weight: bold;
+  }
+  
+  .language span:last-child:hover {
+    font-weight: bold;
+    color: #927034;
+  }
+  
+  .copyright {
+    color: #927034;
+    font-size: 0.9rem;
+    margin-top: 1rem;
+    flex-basis: 100%;
+    text-align: center;
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+  
+  .column {
+    flex: 1;
+    margin: 10px;
+    min-width: 200px;
+    font-family: 'Myanmar Text', sans-serif;
+    font-size: 1rem;
+  }
+
+  .socialContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center align the items horizontally */
+    text-align: center;
+  }
+
+  .social-container a {
+    margin-top: 10px; /* Add some space between the text and images */
+  }
+  
+  .main {
+    margin-top: 4.5rem;
+  }
+  
+  @media only screen and (max-width: 48em) {
+    .appBar {
+      display: none;
+    }
+  
+    .appBarMobile {
+      display: flex;
+    }
+  
+    .sideBar {
+      display: block;
+    }
+  }

@@ -1,0 +1,14 @@
+@keyframes slide-up-fade-in {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.slide-up-fade-in {
+  animation: slide-up-fade-in 1s ease-out;
+}

@@ -1,0 +1,12 @@
+/* @keyframes slide-in {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+.group-hover:animate-slide-in {
+  animation: slide-in 0.7s ease-out forwards;
+} */
