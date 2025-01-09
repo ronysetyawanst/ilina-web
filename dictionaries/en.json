@@ -1,0 +1,142 @@
+{
+  "about_us": "About Us",
+  "our_team": "Our Team",
+  "our_expertise": "Our Expertise",
+  "news": "News",
+  "portfolio": "Our Portfolio",
+  "contact_us": "Contact Us",
+  "stay_connected": "Stay Connected",
+  "slogan": "The law will always give a remedy",
+  "ilina_desc_1": "Ilina is a law firm whose name means \"bright, shining, and intelligent\" in Sanskrit. The logo of Ilina Law Firm is inspired by the scales, symbolizing justice, and the shield, representing protection for our clients.",
+  "ilina_desc_2": "Our team comprises experienced attorneys and legal consultants who are Associates of Lukas Budiono & Partners Law Firm. This collaboration enables us to deliver the highest quality in case management. Representing Ilina Law Firm, we operate with professionalism and uphold the principles of justice.",
+  "more_ilina_desc": "More on Ilina Law Firm",
+  "social_media": "Social Media",
+  "vision_mission_title": "ILINA LAW FIRM: VISION AND MISSION",
+  "vision_title": "vision",
+  "vision_desc": "To be a law firm that consistently upholds professional and ethical standards with integrity.",
+  "mission_title": "mission",
+  "mission_desc_1": "Increasing awareness of the recognition and respect for Human Rights (HAM) through legal enforcement processes.",
+  "mission_desc_2": "Providing the best legal services for clients by prioritizing a sense of justice.",
+  "mission_desc_3": "Reducing the potential for new legal problems through the accordance with applicable laws and regulations.",
+  "mission_desc_4": "Upholding credibility and committing to resolving clients legal issues.",
+  "download_cp": "Download Company Profile",
+  "team_dewi_desc": "Dewi earned her bachelor's degree in law from the Faculty of Law, Atma Jaya University Yogyakarta. She pursued further education at Gadjah Mada University Yogyakarta, specializing in the Master's Program in Litigation Law. Equipped with the theories she studied during her academic years, Dewi applied her legal knowledge by starting her career as a paralegal at the Legal Aid and Consultation Center of Atma Jaya University Yogyakarta. She also gained experience as a legal staff member at a service-related company. Joining Ilina Law Firm as a Associate marked the end of her previous position. With her involvement in corporate law, Dewi's experiences laid the foundation for her career as a corporate attorney.",
+  "team_dewi_expertise": "Corporate Law, Business Law, Contract Law, Defense Law, Licensing Law, Employment Law, Mining Law, Environmental Law",
+  "team_yulvia_desc": "Chandra joined Ilina Law Firm shortly before graduating from the Faculty of Law at the University of Jember. She is known for his sharp thinking and deep analysis. Chandra is also recognized for his critical approach in responding to changes and innovations. In his career, Chandra began as an assistant advocate at the Legal Aid Institute. During his studies, Chandra actively participated in and excelled in various legal competitions, as well as being active in national and international student organizations. Chandra has also frequently served as a speaker at seminars organized by the faculty.",
+  "team_yulvia_expertise": "Corporate Law, Mergers & Acquisition, Labor Law, Dispute Resolution, Intellectual Property, Competition & Anti-Trust, Commercial Litigation, Innovation & Technology Law",
+  "associates_title": "ASSOCIATES",
+  "associates_desc": "Our team consists of experienced attorneys who have obtained accreditation from PERADI (Indonesian Advocates Association). We assist clients with various legal issues from all parts of Indonesia through our accountable capabilities. Here are the members of our team ready to provide solutions to your legal issues.",
+  "legal_service": "LEGAL SERVICE",
+  "expertise_title": "OUR EXPERTISE",
+  "expertise_description": "Ilina Law Firm provides a variety of legal services, offering the best services that match our competence, expertise, and experience in the following fields:",
+  "corporate": "CORPORATE",
+  "corporate_description": "Corporations are legal entities formed to conduct business ventures. Lawyers handling corporate matters provide optimal solutions for business and legal issues, both within and outside the company.",
+  "employment": "EMPLOYMENT",
+  "employment_description": "In employment law, Ilina Law Firm specializes in labor disputes with employers and companies. Our role is to advise clients from the outset, ensure their rights are protected, and navigate legal processes fairly. Fees are based on agreements between clients and lawyers, ensuring flexibility.",
+  "defamation": "DEFAMATION",
+  "defamation_description": "Defamation involves attacks on someone's reputation with false accusations, potentially involving individuals, groups, or authorities. Lawyers handling defamation cases aim to ensure justice for their clients, often through litigation.",
+  "fraud": "FRAUD AND EMBEZZLEMENT",
+  "fraud_description": "Embezzlement, under Article 372 of the Criminal Code, involves unlawfully possessing another's property. Fraud, as per Article 378, entails using deceit to gain advantage. Ilina Law Firm, Jakarta's premier legal team, excels in handling Fraud and Embezzlement cases from investigation to court prosecution.",
+  "banking": "BANKING",
+  "banking_description": "Ilina Law Firm serves as delegated legal counsel for banking institutions, offering legal opinions and analysis to reduce risks and ensure cautious decision-making. We handle technical issues such as auctions, litigation, seizures, and breaches, protecting banking institutions legally.",
+  "industrial_dispute": "INDUSTRIAL DISPUTE",
+  "industrial_dispute_description": "Industrial relations disputes involve disagreements between companies and employees/unions over rights, benefits, or termination. Ilina Law Firm resolves these issues swiftly to protect your company's image.",
+  "litigation_lawyer": "LITIGATION LAWYER",
+  "litigation_lawyer_description": "Litigation is the last resort available to clients when non-litigation avenues are no longer feasible. The hope is that disputes brought before a judge in a trial can be adjudicated and resolved fairly between the parties involved. The assistance we provide includes:",
+  "litigation_lawyer_listItems": [
+    "Preparation of reports and/or complaints to the police, either as representatives or companions.",
+    "Undergoing examinations related to police cases as the reported party.",
+    "Submitting applications for both detention prevention and processing suspension.",
+    "Filing lawsuits in civil cases as the plaintiff.",
+    "Responding to lawsuits in civil cases as the defendant.",
+    "Providing assistance throughout the judicial process, including first instance, appeal, cassation, and review."
+  ],
+  "non_litigation_lawyer": "NON LITIGATION LAWYER",
+  "non_litigation_lawyer_description": "An attorney in a dispute is not obligated to pursue litigation. There are times when non-litigation settlement options must be pursued. Non-litigation handling, also known as Alternative Dispute Resolution (ADR), prioritizes the discovery and formulation of solutions without causing harm to any party. We strive to provide a peaceful resolution for clients using the following methods:",
+  "non_litigation_lawyer_listItems": [
+    "Drafting and sending summonses (warning letters).",
+    "Acting as negotiators in conducting negotiations with other parties.",
+    "Acting as mediators and/or mediators for clients and opposing parties."
+  ],
+  "legal_corporate": "LEGAL CORPORATE",
+  "legal_corporate_description": "As a legal consultant for a company, we provide various legal services based on client preferences, including:",
+  "legal_corporate_listItems": [
+    "Contract drafting",
+    "Contract negotiation",
+    "Legal document translation",
+    "Legal opinions",
+    "Licensing management",
+    "Legal due diligence",
+    "Legal consultation",
+    "Legal document drafting and review"
+  ],
+  "legal_service_description": "Utilizing the legal expertise of Ilina Law Firm, you can pursue multiple legal avenues to resolve the issues confronting you.",
+  "news_page_title": "Here we are give you the latest informations and insights",
+  "by": "By",
+  "legal_articles": "Legal Articles",
+  "latest_news": "Latest News",
+  "portfolio_title": "We provide comprehensive support for their legal needs",
+  "contact_us_title": "CONSULT WITH US",
+  "contact_us_description": "Consult with us about your legal needs or issues.",
+  "contact": "Contact",
+  "whatsapp": "WhatsApp",
+  "email": "Email",
+  "address": "Address",
+  "address-details": "Epiwalk Office Suite Lt. 5 Unit B537\nJl. Epicentrum Boulevard Bar., Karet Kuningan, Setiabudi, Kota Jakarta Selatan 12940",
+  "name": "Name",
+  "phone": "Phone Number",
+  "title": "Title",
+  "message": "Message",
+  "send": "Send",
+  "lawyer": "Lawyer",
+  "thanks": "Thank you",
+  "thanks_for_contacting": "Our team will get back to you shortly. Ensure that your email and telephone number are active.",
+  "articles": [
+    {
+      "title": "SKINCARE BUSINESS ACTORS PROVEN TO OVERCLAIM CONTENT, ARE THERE LEGAL CONSEQUENCES?",
+      "category": "Corporate Law, Consumer Protection, Business Law",
+      "date": "June 04th, 2024",
+      "writer": "Yulvia Chandra Cipta, Dewi Anggraeni Sianipar",
+      "content": "<p>Recently, Indonesian society has been enamored with skincare products. The development of the skincare business is booming in Indonesia because the advertisements marketed give hope to the public to achieve optimal results for their skin health and beauty. However, contrary to reality, some parties have directly conducted laboratory checks on the composition of viral skincare brands. Where business always has obstacles, recently there has been an uproar over the overclaim of skincare composition that differs from the actual lab results.</p><p>In Law Number 8 of 1999 concerning Consumer Protection (UU No. 8 Tahun 1999, n.d.), there are several regulations that explicitly prohibit business actors from making overclaims in marketing their products, including:</p><ol><li>Article 7 letter b, the obligation of business actors is to provide correct, clear, and honest information regarding the condition and guarantee of goods and/or services and to provide explanations on usage, repair, and maintenance;</li><li>Article 8 paragraph (1) letter f, business actors are also prohibited from producing and/or trading goods and/or services that do not comply with the promises stated in the label, etiquette, information, advertisement, or promotion of the sale of goods and/or services;</li><li>Article 9 letter j, business actors are prohibited from offering, promoting, advertising goods and services in an untrue manner using exaggerated words such as safe, harmless, risk-free, or without side effects without providing complete information;</li><li>Article 10 letter b, business actors are prohibited from offering, promoting, advertising, or making untrue or misleading statements about the usefulness of a good/service.</li></ol><p>The virality of several local skincare brands found to overclaim the composition levels of their products has reached the ears of the Indonesian Food and Drug Supervisory Agency (BPOM RI). The term overclaim itself is based on the prohibition of excessive claims by BPOM (Kuncoro & Syamsudin, 2024). BPOM has also issued related regulations through BPOM Regulation No. 32 of 2021 concerning Cosmetic Advertising Supervision (BPOM Regulation No. 32 of 2021, n.d.), in Article 3 it is stated that information in advertisements must meet the following criteria:</p><ol type=\"a\"><li>Objective, namely the information provided is in accordance with the existing reality and must not deviate from the nature of the benefits, usage methods, and safety of cosmetics;</li><li>Not misleading, namely the information provided is honest, accurate, and responsible, and does not exploit public concerns; and</li><li>Does not claim to be a drug or aim to prevent a disease.</li></ol><p>Furthermore, in 2022 BPOM has ratified BPOM Regulation No. 3 of 2022 concerning Technical Requirements for Cosmetic Claims (BPOM Regulation No. 3 of 2022, n.d.), which also strengthens Article 3 of BPOM Regulation No. 32/2021 regarding the criteria that must be met in cosmetic claims for a formula, namely in Article 3 paragraph (1):</p><ol type=\"a\"><li>Legal compliance;</li><li>Truthfulness;</li><li>Honesty;</li><li>Fairness;</li><li>Verifiability;</li><li>Clarity and comprehensibility; and</li><li>Must not claim to be a drug or aim to prevent a disease.</li></ol><p>The overclaim made by business actors in advertising and trading their products is considered an unlawful act because it is done despite knowing the existence of valid legal regulations. This certainly raises legal consequences that must be borne by business actors. Article 1365 of the Civil Code states that “every unlawful act that causes harm to another person obliges the person who caused the harm to compensate for the loss.” Article 1366 of the Civil Code also states that “everyone is responsible not only for the harm caused by their actions but also for the harm caused by their negligence or carelessness.”</p><p>More specifically, the Consumer Protection Law (UUPK) has mandated liability related to this in Article 19, including:</p><ol><li>Business actors are responsible for providing compensation for damage, pollution, and/or consumer losses due to consuming goods and/or services produced or traded;</li><li>Compensation as referred to in paragraph (1) can be in the form of a refund or replacement of goods and/or services of the same type or equivalent value, or health care and/or appropriate compensation in accordance with the provisions of the applicable laws and regulations;</li><li>Compensation must be provided within 7 (seven) days after the date of the transaction;</li><li>The provision of compensation as referred to in paragraphs (1) and (2) does not eliminate the possibility of criminal charges based on further proof of the existence of an element of fault;</li><li>The provisions as referred to in paragraphs (1) and (2) do not apply if the business actor can prove that the fault was the consumer's fault.</li></ol><p>Other legal consequences that will be received by business actors are regulated in BPOM Regulation No. 3 of 2022 concerning Technical Requirements for Cosmetic Claims, Article 5 mentions sanctions for business actors who violate claims on labeling and advertising claims (Article 4), will be subject to administrative sanctions including written warnings, withdrawal, destruction, temporary suspension of activities, cancellation/revocation of notification numbers, public announcements, and/or recommendations to relevant agencies as follow-up to supervision results.</p><p>In addition, Article 60 of the Consumer Protection Law (UUPK) explains the imposition of administrative sanctions for business actors who violate Article 19 paragraphs (2) and (3), Article 20, Article 25, and Article 26 are subject to compensation of up to Rp200,000,000 (two hundred million rupiah). Beyond civil and administrative sanctions, the Consumer Protection Law (UUPK) also mandates the possibility of criminal sanctions through Article 61, which is more fully regulated in Article 62, namely:</p><ol><li>Business actors who violate the provisions as referred to in Articles c and e, Article 10, Article 13 paragraph (2), Article 15, Article 17 paragraph (1) letters a, b, c, e, paragraph (2), and Article 18 are subject to imprisonment for a maximum of 5 (five) years or a maximum fine of Rp2,000,000,000 (two billion rupiah).</li><li>Business actors who violate the provisions as referred to in Articles 11, 12, 13 paragraph (1), 14, 16, 17 paragraph (1) letters d and f are subject to imprisonment for a maximum of 2 (two) years or a maximum fine of Rp500,000,000 (five hundred million rupiah).</li><li>For violations that result in serious injury, serious illness, permanent disability, or death, the applicable criminal provisions apply.</li></ol><p>Furthermore, for criminal sanctions as referred to in Article 62, additional penalties can be imposed (Article 63 of the Consumer Protection Law), in the form of:</p><ol type=\"a\"><li>Confiscation of certain goods;</li><li>Announcement of the judge's decision;</li><li>Payment of compensation;</li><li>Order to stop certain activities that cause consumer harm;</li><li>Obligation to withdraw goods from circulation; or</li><li>Revocation of business licenses.</li></ol>",
+      "references": [
+        {
+          "text": "Kuncoro, A. A. P., & Syamsudin, M. (2024). Consumer Protection against Overclaim of Skincare Products. Proceedings of the Actual Law Seminar, Faculty of Law, Islamic University of Indonesia, 2(3), Article 3.",
+          "url": "http://peraturan.bpk.go.id/Details/223958/peraturan-bpom-no-3-tahun-2022"
+        },
+        {
+          "text": "BPOM Regulation No. 3 of 2022. (n.d.). Regulation Database | JDIH BPK. Retrieved June 04, 2024",
+          "url": "http://peraturan.bpk.go.id/Details/223958/peraturan-bpom-no-3-tahun-2022"
+        },
+        {
+          "text": "BPOM Regulation No. 32 of 2021. (n.d.). Regulation Database | JDIH BPK. Retrieved June 04, 2024",
+          "url": "http://peraturan.bpk.go.id/Details/223944/peraturan-bpom-no-32-tahun-2021"
+        },
+        {
+          "text": "UU No. 8 Tahun 1999. (n.d.). Retrieved June 04, 2024",
+          "url": "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
+        }
+      ]
+    },
+    {
+      "title": "THE RIGHT STEPS TO SOLVE COMPANY PROBLEMS ON THE BRINK OF BANKRUPTCY DUE TO MOUNTING DEBT",
+      "category": "Corporate Law, Dispute Resolution, Business Law, PKPU and Bankruptcy, Business Economics",
+      "date": "July 18th, 2024",
+      "writer": "Yulvia Chandra Cipta",
+      "content": "<p>The growth of business development will also increase complex business challenges. These challenges can arise from difficulties in maintaining the internal financial stability of the company itself. All forms of company operations are closely related to financial turnover, so when the financial wheel is hampered from continuing to turn, it will also be difficult for the company to develop its business. Borrowing funds from banks or other parties is often done by companies to avoid stopping operations. However, not a few companies end up accumulating debt and eventually defaulting.</p><p>Companies that are on the brink of bankruptcy or even no longer have good balance sheet turnover, sometimes it is important to re-plan finances internally. Many companies give up immediately and no longer look for ways to settle their debts. However, it is important for companies to do the following (This is an Effective Way to Pay Off Accumulated Debt, n.d.):</p><ul><li>Conduct Financial and Legal Audits;</li><li>Create a Financial Plan (list of debts, list of receivables, routine monthly balance sheet) using a priority scale for repayment;</li><li>Reduce or suppress company expenses/costs;</li><li>Stop borrowing funds from banks that will add new debt;</li><li>Choose the best debt repayment solution that suits the company's financial condition:<ol><li><strong>Snowball Method:</strong> The snowball method is a method used to pay off debt from the smallest to the largest.</li><li><strong>Avalanche Method:</strong> The avalanche method is a method of paying off debt from the highest interest, so this method can reduce the amount of interest that must be paid.</li><li><strong>Debt Consolidation:</strong> Debt consolidation is a way to combine several debts into one with a lower interest rate.</li><li><strong>Payment Negotiation:</strong> Negotiating with creditors or parties who lend capital funds to obtain more flexible payment terms, or reduce the amount of debt with certain agreements.</li></ol></li></ul><p>In addition to the above methods, there are other solutions to deal with companies experiencing financial difficulties, namely by restructuring. Debt restructuring is one of the good ways to restore the company's financial condition (Debt Restructuring, an Important Effort in Overcoming the Company's Financial Downturn, n.d.). Based on Law Number 4 of 1998 concerning Bankruptcy and Suspension of Debt Payment Obligations (PKPU), restructuring aims to provide opportunities for companies to reorganize their debt payment obligations. Through restructuring, companies have the opportunity to reorganize the company's finances including assets, debts, receivables, and operational finances; then the company must also arrange and negotiate with other creditors or debtors to resolve related debts.</p><p>It would be better if the company's debt restructuring was carried out based on an agreement with other parties related to the debt. That way, debt restructuring can run better because it is initiated by an agreement that can bind other parties so that its implementation will be smoother. The restructuring process can generally be carried out in two ways (Rizki, n.d.), the first is an agreement between creditors and debtors as mentioned above, where everything related to debt can be arranged and agreed upon in an agreement such as changes to debt agreement terms, additions, changes in collateral binding, and so on. This method can increase the possibility of businesses being redeveloped. The second way is through a mechanism involving administrators or curators in the context of implementing the Suspension of Debt Payment Obligations (PKPU), using a collaborative mindset.</p><p>Restructuring is beneficial for the parties involved, such as for debtors, restructuring will help restore the company's financial condition, prevent PKPU or bankruptcy, minimize the potential for long-term disputes, and improve company operations and cooperation with other parties. As for the creditor's position, restructuring will help reduce the ratio of non-performing loans, encourage the health and stability of the creditor company's financial condition, and maintain the trust of its debtors (Rizki, n.d.).</p>",
+      "references": [
+        {
+          "text": "This is an Effective Way to Pay Off Accumulated Debt. (n.d.). Retrieved November 19, 2024",
+          "url": "https://afpi.or.id/articles/detail/membayar-utang-yang-telanjur-menumpuk"
+        },
+        {
+          "text": "Debt Restructuring, an Important Effort in Overcoming the Company's Financial Downturn. (n.d.). Retrieved November 19, 2024",
+          "url": "https://www.hukumonline.com/berita/a/restrukturisasi-utang--upaya-penting-dalam-mengatasi-keterpurukan-keuangan-perusahaan-lt64d49a21a060d/"
+        },
+        {
+          "text": "Rizki, M. J. (n.d.). Understanding Effective Strategies for Successful Debt Restructuring. hukumonline.com. Retrieved November 22, 2024",
+          "url": "https://www.hukumonline.com/berita/a/memahami-strategi-jitu-agar-berhasil-restrukturisasi-utang-lt6659bd4da2a30/"
+        }
+      ]
+    }
+  ]
+}
