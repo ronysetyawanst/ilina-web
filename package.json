@@ -1,0 +1,48 @@
+{
+  "name": "codebase-ssr",
+  "version": "3.0.0",
+  "author": "",
+  "license": "MIT",
+  "description": "Source code of Front End's Codebase with SSR",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "lint": "next lint",
+    "lint:watch": "esw src --color --watch",
+    "start": "next start",
+    "tailwind:watch": "tailwindcss -i src/input.css -o src/app/globals.css --watch"
+  },
+  "dependencies": {
+    "@fontsource/open-sans": "^5.0.28",
+    "@formatjs/intl-localematcher": "^0.5.8",
+    "@headlessui/react": "^2.1.2",
+    "@tailwindcss/typography": "^0.5.15",
+    "@tanstack/react-query": "^5.51.23",
+    "axios": "^1.7.3",
+    "cookies": "^0.9.1",
+    "emailjs-com": "^3.2.0",
+    "file-saver": "^2.0.5",
+    "i18next": "^23.16.5",
+    "js-cookie": "^3.0.5",
+    "negotiator": "^1.0.0",
+    "next": "^14.2.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-i18next": "^15.1.1",
+    "react-icons": "^5.2.1",
+    "recoil": "^0.7.7",
+    "sharp": "^0.33.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^14.2.4",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-react": "^7.34.3",
+    "eslint-plugin-sonarjs": "^1.0.3",
+    "eslint-watch": "^8.0.0",
+    "postcss": "^8.4.41",
+    "prop-types": "^15.8.1",
+    "tailwindcss": "^3.4.14"
+  }
+}
